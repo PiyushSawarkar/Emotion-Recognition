@@ -1,5 +1,5 @@
 # Emotion-Recognition 
-$Requirements: \
+Requirements: \
 numpy==1.15.4\
 opencv-python==3.4.1\
 tensorflow==1.12.0\
